@@ -1,19 +1,16 @@
-<<<<<<< HEAD
 # Job Platform
 
-Technical assignment: Full-stack job platform.
+Full-stack job platform with Next.js frontend and Node.js + Express + Prisma backend.
 
-## Stack
+## Tech Stack
+- Frontend: Next.js 14, TypeScript, Tailwind
+- Backend: Node.js, Express, Prisma, PostgreSQL
+- Authentication: JWT
 
-- Backend: Node.js, Express, TypeScript, Prisma, PostgreSQL, JWT
-- Frontend: Next.js (App Router), TypeScript, Tailwind CSS
-- File Upload: Multer (PDF only)
-
-## Structure
-
-- backend/: Express API
-- frontend/: Next.js App
-=======
-# job-platform
-Full-stack job platform 
->>>>>>> 30d7cdaa014998beaf6dec75129a01e2472725b6
+## Setup
+1. Clone repository
+2. `cd backend && npm install`
+3. `cd frontend && npm install`
+4. Set `.env` variables
+5. Run backend: `npm run dev`
+6. Run frontend: `npm run dev`
