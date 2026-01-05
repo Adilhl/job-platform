@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Job Platform
 
 Technical assignment: Full-stack job platform.
@@ -12,3 +13,7 @@ Technical assignment: Full-stack job platform.
 
 - backend/: Express API
 - frontend/: Next.js App
+=======
+# job-platform
+Full-stack job platform 
+>>>>>>> 30d7cdaa014998beaf6dec75129a01e2472725b6
